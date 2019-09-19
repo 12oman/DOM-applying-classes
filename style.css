@@ -20,6 +20,12 @@ div {
 .blue {
   background-color: blue;
 }
+.green {
+  background-color: green;
+}
+.brown {
+  background-color: #7f1e00;
+}
 
 .invisible {
   display: none;
